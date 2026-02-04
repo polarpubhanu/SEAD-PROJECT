@@ -1,0 +1,11 @@
+ Class Relationships
+
+Class relationships illustrate how entities interact.
+
+Association: Users interact with Books to search and access content.
+
+Aggregation: A Category contains multiple Books.
+
+Inheritance: Administrator inherits properties from the User class but possesses additional privileges.
+
+These relationships ensure modular and scalable system architecture.
