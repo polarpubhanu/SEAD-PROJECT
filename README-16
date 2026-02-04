@@ -1,0 +1,29 @@
+16. Project Charter Submission
+Project Charter – E-Book Management System
+Project Title:
+E-Book Management System
+
+Project Objective:
+The objective of this project is to design and develop a centralized digital platform that enables efficient storage, organization, and retrieval of e-books. The system aims to improve accessibility, reduce manual effort in managing digital resources, and provide a secure environment for users to access academic materials.
+
+Project Description:
+The E-Book Management System is a web-based application that allows users to search, browse, read, and download digital books. Administrators can upload and manage book records, maintain metadata, and control user access. The system addresses challenges associated with traditional book management methods such as inefficient searching, poor organization, and security risks.
+
+Project Scope:
+The system focuses on digital book management and excludes commercial features such as online payments and physical library operations.
+
+Stakeholders:
+Students / Users
+Administrator
+Instructor
+Project Team
+
+Project Timeline:
+Requirement Analysis – 1 Week
+System Design – 1 Week
+Development – 3 Weeks
+Testing – 1 Week
+Deployment – 1 Week
+
+Expected Outcome:
+A secure, user-friendly, and efficient platform that enhances digital learning by providing easy access to academic resources.
