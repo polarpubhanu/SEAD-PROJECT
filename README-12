@@ -1,0 +1,45 @@
+12. Functional Requirements Documentation
+FR-01: User Registration
+
+Users shall be able to create an account.
+
+Acceptance Criteria:
+User successfully registers with valid details.
+
+FR-02: User Login
+
+Users shall log in securely.
+
+Acceptance Criteria:
+System authenticates credentials correctly.
+
+FR-03: Search Books
+
+Users shall search books using keywords.
+
+Acceptance Criteria:
+Relevant books appear in results.
+
+FR-04: View Book Details
+Users shall view author, category, description.
+
+Acceptance Criteria:
+System displays accurate metadata.
+
+FR-05: Access E-Books
+Users shall read/download books.
+
+Acceptance Criteria:
+Book opens without errors.
+
+FR-06: Upload Books
+Admin shall upload e-books.
+
+Acceptance Criteria:
+Book appears in library.
+
+FR-07: Manage Books
+Admin edits or deletes records.
+
+Acceptance Criteria:
+Changes reflect immediately.
