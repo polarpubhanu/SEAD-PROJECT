@@ -1,0 +1,15 @@
+ Sequence Diagrams Creation
+
+Sequence diagrams were created to represent the chronological order of interactions between system components.
+
+Critical processes modeled include:
+
+User Login
+
+Book Search
+
+Admin Upload Book
+
+Book Download
+
+These diagrams clarify communication between objects and help detect logical flaws early.
