@@ -1,0 +1,13 @@
+ Deployment Diagram Creation
+
+The deployment diagram illustrates the physical arrangement of system components.
+
+The environment consists of:
+
+Client devices used by users
+
+A web server hosting the application
+
+A database server storing system data
+
+This structure supports centralized management and remote accessibility
