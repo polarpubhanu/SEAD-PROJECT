@@ -1,0 +1,6 @@
+Stakeholder Register
+    Name	         Role	            Interest Level	Influence
+    Students	     End Users	      High	          Medium
+    Administrator	 System Manager	  High	          High
+    Instructor	   Reviewer	        Medium	        High
+    Project Team	 Developers	      High	          High
