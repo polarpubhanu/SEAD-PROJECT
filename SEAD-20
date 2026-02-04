@@ -1,0 +1,7 @@
+20. CASE Tool Setup
+
+To support effective system modeling and visualization, a Computer-Aided Software Engineering (CASE) tool such as StarUML or Visual Paradigm was installed and configured. These tools provide a structured environment for designing UML diagrams, which are essential for representing system architecture, workflows, and object interactions.
+
+The CASE tool enables developers to create standardized diagrams including use case diagrams, class diagrams, sequence diagrams, activity diagrams, component diagrams, and deployment diagrams. These diagrams improve clarity, reduce design errors, and facilitate better communication among team members.
+
+Proper configuration of the tool ensured compatibility with system requirements and allowed the project team to maintain consistency across all design artifacts.
