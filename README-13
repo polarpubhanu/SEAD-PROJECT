@@ -1,0 +1,13 @@
+13. Non-Functional Requirements
+
+NFR-01 Security
+System must prevent unauthorized access.
+
+NFR-02 Performance
+System should respond quickly to searches.
+
+NFR-03 Usability
+Interface must be simple and user-friendly.
+
+NFR-04 Reliability
+System should operate with minimal downtime.
