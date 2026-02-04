@@ -1,0 +1,15 @@
+Component Diagram Creation
+
+The component diagram represents the high-level architecture of the system.
+
+Major components include:
+
+User Interface
+
+Application Server
+
+Authentication Module
+
+Database
+
+Each component performs a specific role while collaborating to deliver seamless functionality.
