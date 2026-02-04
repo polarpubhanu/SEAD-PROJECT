@@ -1,0 +1,7 @@
+Workflow Documentation
+
+Complex workflows were documented to ensure operational clarity.
+
+For instance, the login workflow includes credential validation followed by access authorization. Decision nodes determine whether users proceed or retry.
+
+Parallel activities allow multiple users to interact with the system simultaneously, improving efficiency.
