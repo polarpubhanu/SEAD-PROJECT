@@ -1,0 +1,15 @@
+ Design Document Creation
+
+The design document explains the rationale behind architectural decisions. UML diagrams were used extensively to represent structural and behavioral aspects of the system.
+
+The design emphasizes:
+
+Security through authentication
+
+Scalability to accommodate future growth
+
+Usability for enhanced user experience
+
+Organized data management
+
+This systematic approach ensures efficient implementation and long-term maintainability.
