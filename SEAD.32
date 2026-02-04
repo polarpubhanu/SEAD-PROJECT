@@ -1,0 +1,15 @@
+ Alternative Flows Inclusion
+
+Alternative flows were incorporated to handle unexpected scenarios gracefully.
+
+Examples include:
+
+Invalid login credentials
+
+Network interruption
+
+Book unavailable
+
+File access errors
+
+Handling these cases enhances system robustness and user satisfaction.
